@@ -1,0 +1,8 @@
+{
+  mqtt: {
+    host: "mqtt://162.220.52.35",
+    port: 1883
+  },
+  sourceTopic: "Mernik",
+  sourceClientId: "ND30-MQTT-CLIENT"
+}
